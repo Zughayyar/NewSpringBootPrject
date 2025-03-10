@@ -1,0 +1,59 @@
+
+
+.tableContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: auto;
+    height: 100vh;
+}
+
+.loginContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: auto;
+    height: 100vh;
+}
+
+.signUpContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: auto;
+    height: 100vh;
+}
+
+.homeContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    background: blueviolet;
+}
+
+.layoutContainer {
+    width: 100%;
+    padding: 2vh 0;
+}
+
+.contentContainer {
+    background: white;
+    min-height: 280px;
+    padding: 24px;
+    border-radius: 10px;
+}
+
+.notFoundContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: auto;
+    height: 100vh;
+}
